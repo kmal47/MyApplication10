@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702683896754",
+    "firebase_url": "https://pushwan-80c25.firebaseio.com",
+    "project_id": "pushwan-80c25",
+    "storage_bucket": "pushwan-80c25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702683896754:android:e1370266fc4327c1",
+        "android_client_info": {
+          "package_name": "com.mylab.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702683896754-1q57rhbde2s6c3s66f8tejelsqdq9ifc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7fdG3YrxRyKOViGp01Mp8yJF7ocYGaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
